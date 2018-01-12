@@ -1,0 +1,85 @@
+body {
+	width: 90%;
+	
+	
+}
+@font-face {
+    font-family: 'abril_fatfaceregular';
+    src: url('font/abrilfatface-regular-webfont.woff2') format('woff2'),
+         url('font/abrilfatface-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+#background {
+	
+}
+
+#white {
+	width: 50%;	
+	height: 135px;
+	
+}
+
+#grey {
+	width: 50%;
+	height: 175px;	
+	background-color: #222222;
+	margin-top: -20px;
+}
+
+h1, h2 {
+	font-family: 'abril_fatfaceregular';
+	line-height: 8px;
+	padding-left: 20px;
+	font-weight: normal;
+	
+}
+
+h1 {
+	font-size: 50px;
+}
+
+h2 {
+	font-size: 18px;
+}
+
+#title-one {
+	
+}
+#try {
+	line-height: -100px;
+	
+	margin-bottom: -10px;
+	color: #222222;
+}
+
+#possibilities {
+	font-size: 15px;	
+	margin-left: 32px;
+	margin-top: -15px;
+	color: #222222;
+	
+}
+
+#title-two {
+	color: white
+}
+
+#your {
+	color: white;
+	margin-bottom: -10px;
+}
+#matter {
+	color: white;
+	
+	line-height: 15px;
+	margin-top: -60px;
+	margin-left: 320px;
+}
+
+#imagen {
+	width: 7%;
+	margin-top: -26px;
+	padding-left: 20px;
+}
